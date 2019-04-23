@@ -14,7 +14,7 @@
 
 
   <ItemGroup>
-    <ProjectReference Include="E:\super\Desktop\pagseguro-sdk-dotnet-master\source\Uol.PagSeguro\Uol.PagSeguro.csproj" />
+    <ProjectReference Include="..\Uol.PagSeguro\Uol.PagSeguro.csproj" />
   </ItemGroup>
 
 
